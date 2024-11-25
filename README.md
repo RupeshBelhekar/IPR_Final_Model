@@ -30,14 +30,14 @@ Ankle boot
 The dataset can be found [Here](https://github.com/zalandoresearch/fashion-mnist)
 
 ✍️ **Authors**
-- Rupesh Mohan Belhekar
-  Email: rupesh.22210091@viit.ac.in
+- Rupesh Belhekar
+  - Email: rupesh.22210091@viit.ac.in
 + Anudip Baviskar
-  Email: anudip.22210562@viit.ac.in
+  + Email: anudip.22210562@viit.ac.in
 * Anushka Wani
-  Email: anushka.22211007@viit.ac.in
+  * Email: anushka.22211007@viit.ac.in
 - Krushanali Rajput
-  Email: krushanali.22320217@viit.ac.in
+  - Email: krushanali.22320217@viit.ac.in
   
 📝 **Citation**
 If you use this work, please cite our research paper:
